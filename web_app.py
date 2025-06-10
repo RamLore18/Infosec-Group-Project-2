@@ -4,7 +4,8 @@ import streamlit as st
 
 model = pickle.load(open('model.pkl', 'rb'))
 
-col0, col1, col2, col3, col4, col5, col6 = st.columns(7)
+col0, col1, col2, col3, col4, col5, col6 = st.columns([0.2, 0.2, 0.2, 6, 0.2, 0.2, 0.2])
+
 with col0:
     st.write('')
 with col1:
@@ -12,7 +13,7 @@ with col1:
 with col2:
     st.write('')    
 with col3:
-    st.title("ⴍage") 
+    st.markdown("<h1 style='text-align: center;'>ⴍage</h1>", unsafe_allow_html=True) 
 with col4:
     st.write('')
 with col5:
