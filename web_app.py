@@ -8,7 +8,7 @@ col0, col1, col2, col3, col4, col5, col6 = st.columns([0.2, 0.2, 0.2, 6, 0.2, 0.
 
 with col0:
     st.write('')
-with col1:
+with col1:  
     st.write('')
 with col2:
     st.write('')    
