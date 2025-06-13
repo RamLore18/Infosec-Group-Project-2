@@ -1,6 +1,6 @@
 #  Infosec Group Project 2
 
-To access the main file please click [here](streamlit_app.py)
+To access the main file please click [here](web_app.py)
 
 ### Group Members:
 
