@@ -4,7 +4,7 @@ To access the main file please click [here](streamlit_app.py)
 
 ### Group Members:
 
-Muksssss (RamLore18) - [GitHub](https://github.com/RamLore18)
+Mukisa Lore (RamLore18) - [GitHub](https://github.com/RamLore18)
 
 Joy Gitau (JWTRG) - [GitHub](https://github.com/JWTRG)
 
