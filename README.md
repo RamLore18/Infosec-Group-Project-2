@@ -19,8 +19,7 @@ The project combines data exploration, model training, and web application devel
 ## Technologies Used
 
 * **Python** – Programming language used for the project.
-* **Pandas and NumPy** – Data manipulation and numerical operations, where used in the training workflow.
-* **Scikit-learn** – Machine learning tools, if used in the training notebook.
+* **Pandas** – Data manipulation
 * **Jupyter Notebook** – Used for data exploration and model development.
 * **Streamlit** – Used to build the interactive web application.
 * **Pickle** – Used to save and load the trained model.
